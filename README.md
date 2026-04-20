@@ -1,4 +1,4 @@
-# @turbowarp/scratch-parser
+# @CodeTorchNET/scratch-parser
 
 scratch-parser with bug fixes.
 
